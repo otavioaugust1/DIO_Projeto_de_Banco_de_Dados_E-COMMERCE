@@ -13,15 +13,22 @@
 
 <h2>Resultado:</h2>
 <p>Foi utilizado o <a href="https://draw.io">draw.io</a> sendo um otimo editor gráfico online no qual é possível desenvolver desenhos, gráficos e outros sem a necessidade de usar um software caro e pesado. Ele disponibiliza recursos para criação de qualquer tipo de desenho porém, possui uma parte dedicada à arquitetura da informação.</p>
-<h3>Visão</h3><br>
+<h3>Esquema</h3><br>
 
 <img src="img\Esquema_ordem_do_serviço.png">
-fonte: <a href=diagrama\Esquema_ordem_do_serviço.drawio>modelo draw</a>
+fonte: <a href=https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/tree/main/diagrama>modelo draw</a>
 
 <h3>Visão</h3><br>
 
 <img src="img\Diagrama_geral.png">
-fonte: <a href=diagrama\Diagrama_geral.drawio>modelo draw</a>
+fonte: <a href=https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/tree/main/diagrama>modelo draw</a>
 
 <h3>Modelagem</h3>
+
+<img src="img\Modelagem_banco_de_dados.png">
+fonte: <a href=https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/tree/main/diagrama>modelo draw</a>
+
+<h2>Construção do projeto logico</h2>
+Os SQL do projeto pasta construcao
+
 
