@@ -23,10 +23,16 @@ fonte: <a href=https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-
 <img src="img\Diagrama_geral.png">
 fonte: <a href=https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/tree/main/diagrama>modelo draw</a>
 
-<h3>Modelagem</h3>
+<h3>Modelagem E-COMMERCE</h3>
 
 <img src="img\Modelagem_banco_de_dados.png">
 fonte: <a href=https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/tree/main/diagrama>modelo draw</a>
+
+<h3>Modelagem Oficina</h3>
+
+<img src="img\Modelagem_Oficina.png">
+fonte: <a href=https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/tree/main/diagrama>modelo draw</a> 
+
 
 <h2>Construção do projeto logico</h2>
 Os SQL do projeto pasta construcao
